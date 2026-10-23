@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assists Demo</string>
+    <string name="assists_description">Sample description for Assists. Define assists_description in your string resources to override it.</string>
+</resources>
